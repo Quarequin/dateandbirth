@@ -1,0 +1,20 @@
+{
+    "roles": [
+        {
+            "name": "realTimeClock3",
+            "service": 445323816
+        },
+        {
+            "name": "rotaryEncoder3",
+            "service": 284830153
+        },
+        {
+            "name": "dcCurrentMeasurement3",
+            "service": 420661422
+        },
+        {
+            "name": "dcVoltageMeasurement3",
+            "service": 372485145
+        }
+    ]
+}

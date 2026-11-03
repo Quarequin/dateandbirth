@@ -1,0 +1,41 @@
+{
+    "name": "DateAndBirth",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "arcade-sprite-util": "github:jwunderl/arcade-sprite-util#v0.4.1",
+        "arcade-text": "github:pelikhan/arcade-image-text#v0.0.4",
+        "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0",
+        "jacdac": "github:jacdac/pxt-jacdac#v1.9.42",
+        "jacdac-arcade-gamepad": "github:jacdac/pxt-jacdac/arcade-gamepad#v1.9.42",
+        "jacdac-rotary-encoder": "github:jacdac/pxt-jacdac/rotary-encoder#v1.9.42",
+        "jacdac-button": "github:jacdac/pxt-jacdac/button#v1.9.42",
+        "jacdac-dc-current-measurement": "github:jacdac/pxt-jacdac/dc-current-measurement#v1.9.42",
+        "jacdac-gamepad": "github:jacdac/pxt-jacdac/gamepad#v1.9.42",
+        "jacdac-real-time-clock": "github:jacdac/pxt-jacdac/real-time-clock#v1.9.42",
+        "jacdac-dc-voltage-measurement": "github:jacdac/pxt-jacdac/dc-voltage-measurement#v1.9.42",
+        "Control": "github:sargedev/control#4d59722d84a639a38ab19df701397c883f2119c2",
+        "BetterArrays": "github:sargedev/betterarrays#v1.2.1",
+        "BetterSettings": "github:sargedev/bettersettings#2023.5.1"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "jacdac.json",
+        "jacdac.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "4.1.27",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
